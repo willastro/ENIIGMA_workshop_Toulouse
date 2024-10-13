@@ -1,2 +1,2 @@
 # ENIIGMA_workshop_Toulouse
-https://mybinder.org/v2/gh/willastro/ENIIGMA_workshop_Toulouse/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/willastro/ENIIGMA_workshop_Toulouse/HEAD)
