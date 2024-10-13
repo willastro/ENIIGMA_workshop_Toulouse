@@ -1,0 +1,8 @@
+H$_2$O:NH$_3$:Schutte
+H$_2$O:CH$_3$OH:8p
+pyroxene
+CO:CO$_2$:15Kbs
+CO
+olivine
+H$_2$O:CH$_4$:10:06:a:
+CO:CH$_3$OH:4:1:15K:bs
